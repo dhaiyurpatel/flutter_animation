@@ -1,0 +1,4 @@
+#Sun Mar 12 13:05:52 IST 2023
+base.0=/Users/apple/Documents/Dhaiyur/flutter_animation/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
